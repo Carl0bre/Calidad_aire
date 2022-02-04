@@ -28,4 +28,4 @@ Los datos que son capturados por el sensor, son transmitidos por MQTT a un servi
   
   [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-Carlobre-1EAEDB.svg)](https://www.github.com/Carl0bre/)
 
-</d
+</div>
