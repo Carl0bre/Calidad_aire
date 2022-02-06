@@ -1,10 +1,16 @@
+<div align="right">
+  <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/test/qr-code.png" width="100" height="100">
+</div>
+
 # Sensor de Calidad de aire
 
 ## Proyecto para la monitorización de la calidad de aire del aula
+
 ### Este es un proyecto para trabajar con los alumnos del primer curso del CFGS de Automatización y Robótica IES Javier García Téllez de Cáceres.
+
 <p align="center">
-<img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg" alt="Coder GIF" width="500" height="400">
- <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box2.jpg" alt="Coder GIF" width="500" height="400">
+<img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg"  width="500" height="400">
+ <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box2.jpg"  width="500" height="400">
 </p>
 
 ---
