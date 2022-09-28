@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src=[![Sensor-box.jpg](https://i.postimg.cc/kXwTrtWW/Sensor-box.jpg)](https://postimg.cc/HVcwXnZL)  width="500" height="400">
+<img src="https://i.postimg.cc/kXwTrtWW/Sensor-box.jpg")  width="500" height="400">
  <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box2.jpg"  width="500" height="400">
 </p>
 
