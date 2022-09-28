@@ -9,7 +9,8 @@
 ### Este es un proyecto para trabajar con los alumnos del primer curso del CFGS de Automatización y Robótica IES Javier García Téllez de Cáceres.
 
 <p align="center">
-<img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg"  width="500" height="400">
+[![Sensor-box.jpg](https://i.postimg.cc/kXwTrtWW/Sensor-box.jpg)](https://postimg.cc/HVcwXnZL)
+#<img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg"  width="500" height="400">
  <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box2.jpg"  width="500" height="400">
 </p>
 
