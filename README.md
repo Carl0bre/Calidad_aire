@@ -10,7 +10,7 @@
 
 <p align="center">
 [![Sensor-box.jpg](https://i.postimg.cc/kXwTrtWW/Sensor-box.jpg)](https://postimg.cc/HVcwXnZL)
-# <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg"  width="500" height="400">
+[comment]: <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box.jpg"  width="500" height="400">
  <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/images/Sensor_box2.jpg"  width="500" height="400">
 </p>
 
