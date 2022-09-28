@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/Carl0bre/Calidad_aire/master/test/qr-code.png" width="100" height="100">
+  <img src="https://github.com/Carl0bre/Calidad_aire/blob/master/test/qr-code.png" width="100" height="100">
 </div>
 
 # Sensor de Calidad de aire
